@@ -17,5 +17,3 @@ Make sure you have Python installed on your system. You can download Python from
 
 ![projectile_motion_plot](https://github.com/draxssup/ProjectileMotionSimulator/assets/67823140/6b51a327-7144-45bd-9832-f741150939ea)
 
-## Author:
-- draxssup
